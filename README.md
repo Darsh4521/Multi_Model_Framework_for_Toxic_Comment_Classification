@@ -8,7 +8,7 @@ The dataset provided in the Dataset folder inside Project folder: The datasets w
 
 While the running the project locally, place the datasets in the same folder as the project (ipynb) file.
 
-Dataset is also avaialble to download from: https://drive.google.com/drive/folders/1Xz6AOiNRohJDwIeQe0n9HC_RnH7F5a_K?usp=sharing
+Dataset is also available to download from: https://drive.google.com/drive/folders/1Xz6AOiNRohJDwIeQe0n9HC_RnH7F5a_K?usp=sharing
 ## Installing Necessary Libraries
 
 Before running the project, install the following Libraries using the command: 
