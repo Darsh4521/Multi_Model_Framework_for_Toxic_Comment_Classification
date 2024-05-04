@@ -4,12 +4,15 @@
 
 ## Data set Details
 
-The dataset provided in the Dataset folder inside Project folder: The datasets would be in folder: "Multi_Model_Framework_for_Toxic_Classication/Dataset" contains two csv files named "data.csv" and "train.csv"
+The dataset provided in the Dataset folder inside Project folder: The datasets would be in folder: "Multi_Model_Framework_for_Toxic_Classication/Dataset" contains one csv file named "train.csv".
 
-While the running the project locally, place the datasets in the same folder as the project (ipynb) file.
+Other Dataset named "data.csv" cannot be uploaded on Github due to its large size (exceeding the limit of 100 MB)
 
-Dataset is also available to download from: https://drive.google.com/drive/folders/1Xz6AOiNRohJDwIeQe0n9HC_RnH7F5a_K?usp=sharing
+Both the Datasets are also available to download from: https://drive.google.com/drive/folders/1Xz6AOiNRohJDwIeQe0n9HC_RnH7F5a_K?usp=sharing
+
 ## Installing Necessary Libraries
+
+While running the project locally, place the datasets in the same folder as the project (ipynb) file.
 
 Before running the project, install the following Libraries using the command: 
 
